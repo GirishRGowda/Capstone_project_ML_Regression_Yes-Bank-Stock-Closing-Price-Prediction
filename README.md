@@ -3,6 +3,9 @@ YES BANK is a well-known bank in the Indian financial domain; it has been in the
 
 For understanding and comparing OPEN, HIGH, and LOW pricing, we have used a variety of charts. We developed a total of three machine learning (ML) models for price prediction. The first model employed the linear regression machine learning technique, the second model the lasso regression algorithm, and the third model the ridge regression algorithm.
 
+## **Problem Statement**
+**To predict the future price of YES BANK's stock on the National Stock Exchange using a machine learning model of linear regression. We must create a model that will assist us in predicting future stock closing prices.**
+
 ## **Methods that we used in this project-**
 
 1.Python
